@@ -36,4 +36,16 @@ Here are some resources that I have found useful:
 
 ### Reading Good Writers
 
-Reading material by good writers is another great way to learn writing. Here are some people who I think write well: Steven Pinker, Richard Dawkins, Brian Greene, Richard Thaler, Robert Luskin, Paul Sniderman, Donald Kinder, V.S. Naipaul, Vladimir Nabokov, Jane Austen, and George Elliot.
+A sure way to write better is to read good writers. Here are some people who I think write well: Steven Pinker, Richard Dawkins, Brian Greene, Richard Thaler, Robert Luskin, Paul Sniderman, Donald Kinder, V.S. Naipaul, Vladimir Nabokov, and Jane Austen.
+
+### Books
+
+* Bird by Bird: Some Instructions on Writing and Life by Anne Lamott
+
+* The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century by Steven Pinker
+
+### On Writing
+
+### Actually Writing
+
+
