@@ -1,4 +1,4 @@
-## Writing Tips
+## Writing Well
 
 Writing is not transcribing. It is creating new ideas and new ways of expressing old ideas. Thus, writing encompasses both, thinking about what to write, and how to write it.
 
@@ -10,7 +10,9 @@ We may not know where the words come from, but we do know how to turn the tap on
 
 Even when you do all this, the first draft is liable to be rife with errors. For it seems, often enough, we can't quite fully appreciate the stupidity of an argument until we have put it down on paper. And even then, recognizing errors in arguments and style generally requires a 'fresh pair of eyes,' ours or someone else's. So, take time between revisions. And ask others for help.
 
-Here are some resources that I have found useful:
+### Resources
+
+#### Notes on How to Write Better
 
 * [Robert's Rules: Suggestions for Writing](lit/Roberts-Rules-January-2013.pdf) by Robert Luskin.</li>
 
@@ -34,18 +36,31 @@ Here are some resources that I have found useful:
     
     *  Every day, for six months at least, practice writing in this way. Small words; short, clear, concrete sentences. It may be awkward, but it’s training you in the use of language. It may even be getting rid of the bad language habits you picked up at the university. You may go beyond these rules after you have thoroughly understood and mastered them.</li>
 
-### Reading Good Writers
+#### Good Writers
 
 A sure way to write better is to read good writers. Here are some people who I think write well: Steven Pinker, Richard Dawkins, Brian Greene, Richard Thaler, Robert Luskin, Paul Sniderman, Donald Kinder, V.S. Naipaul, Vladimir Nabokov, and Jane Austen.
 
-### Books
+#### Books
 
-* Bird by Bird: Some Instructions on Writing and Life by Anne Lamott
+* Bird by Bird: Some Instructions on Writing and Life by Anne Lamott  
+  - Review: Frank personal advice on how to write fiction. 
+  - [Link to Amazon](https://smile.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/)
 
-* The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century by Steven Pinker
+* The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century by Steven Pinker  
+  - Review: Frustrated with cryptic advice on writing style? This book is the perfect antidote. It is the single best book on writing that I have read.
+  - [Link to Amazon](https://smile.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/)
 
-### On Writing
+* Stein On Writing: A Master Editor of Some of the Most Successful Writers of Our Century Shares His Craft Techniques and Strategies by Sol Stein  
+  - Review: Clear, frank, and extremely pragmatic advice for writers, including basics of plotting. 
+  - [Link to Amazon](https://smile.amazon.com/Stein-Writing-Successful-Techniques-Strategies/dp/0312254210/)
 
-### Actually Writing
+#### Tools
 
+* [Hemingway Editor](http://www.hemingwayapp.com)
+  Encourages you to use smaller words and shorter sentences.
 
+* [Grammarly](http://grammarly.com)
+   Get good advice on grammar.
+
+* [Describing Words](http://describingwords.io)
+  Looking for adjectives? The tool mines books and lists all the adjectives that have been used with a particular noun.
