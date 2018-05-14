@@ -42,17 +42,21 @@ A sure way to write better is to read good writers. Here are some people who I t
 
 #### Books
 
-* Bird by Bird: Some Instructions on Writing and Life by Anne Lamott  
-  - Review: Frank personal advice on how to write fiction. 
-  - [Link to Amazon](https://smile.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/)
-
 * The Sense of Style: The Thinking Person's Guide to Writing in the 21st Century by Steven Pinker  
   - Review: Frustrated with cryptic advice on writing style? This book is the perfect antidote. It is the single best book on writing that I have read.
   - [Link to Amazon](https://smile.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/)
 
+* On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction
+  - Review: A treat. Important, if basic, points conveyed clearly.
+  - [Link to Amazon](https://smile.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/)
+ 
 * Stein On Writing: A Master Editor of Some of the Most Successful Writers of Our Century Shares His Craft Techniques and Strategies by Sol Stein  
   - Review: Clear, frank, and extremely pragmatic advice for writers, including basics of plotting. 
   - [Link to Amazon](https://smile.amazon.com/Stein-Writing-Successful-Techniques-Strategies/dp/0312254210/)
+
+* Bird by Bird: Some Instructions on Writing and Life by Anne Lamott  
+  - Review: Frank personal advice on how to write fiction. 
+  - [Link to Amazon](https://smile.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/)
 
 #### Tools
 
