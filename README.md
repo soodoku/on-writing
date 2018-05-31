@@ -1,6 +1,6 @@
 ## Writing Well
 
-Writing is not transcribing. It is creating new ideas and new ways of expressing old ideas. Thus, writing encompasses both, thinking about what to write, and how to write it.
+Writing is not transcribing. It is creating new ideas and finding new ways of expressing old ideas. Thus, writing encompasses both, thinking about what to write, and how to write it.
 
 It also holds then that if we don't write, we don't create. If we don't write, some connections will not be made, and some innovations in phrasing will remain unthought. The act of writing, much like the act of talking, causes us to create.
 
