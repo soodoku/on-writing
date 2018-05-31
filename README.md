@@ -60,11 +60,11 @@ A sure way to write better is to read good writers. Here are some people who I t
 
 #### Tools
 
-* [Hemingway Editor](http://www.hemingwayapp.com)
+* [Hemingway Editor](http://www.hemingwayapp.com)  
   Encourages you to use smaller words and shorter sentences.
 
-* [Grammarly](http://grammarly.com)
+* [Grammarly](http://grammarly.com)  
    Get good advice on grammar.
 
-* [Describing Words](http://describingwords.io)
+* [Describing Words](http://describingwords.io)  
   Looking for adjectives? The tool mines books and lists all the adjectives that have been used with a particular noun.
