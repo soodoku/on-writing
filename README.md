@@ -64,7 +64,11 @@ A sure way to write better is to read good writers. Here are some people who I t
   Encourages you to use smaller words and shorter sentences.
 
 * [Grammarly](http://grammarly.com)  
-   Get good advice on grammar.
+   Get good advice on grammar. One portion of the software uses supervised algorithms that learn from editorial suggestions.
 
 * [Describing Words](http://describingwords.io)  
   Looking for adjectives? The tool mines books and lists all the adjectives that have been used with a particular noun.
+
+* [Ludwig](https://ludwig.guru/)
+  Finds similar sentences to ones you are trying to write from reputable websites to help you write better.
+ 
