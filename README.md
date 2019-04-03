@@ -12,13 +12,41 @@ Even when you do all this, the first draft is liable to be rife with errors. For
 
 ### Resources
 
-#### Notes on How to Write Better
+#### Succinct Advice on How to Write Better
 
 * [Robert's Rules: Suggestions for Writing](lit/Roberts-Rules-January-2013.pdf) by Robert Luskin.</li>
 
 * [QJPS Style Guidelines](lit/QJPS-Style-Guidelines.pdf)</a></li>
 
 * [John Cochrane's Writing Tips for Ph.D. Students](lit/phd_paper_writing.pdf)
+
+* [Stephen Pinker's 13 Rules](https://twitter.com/sapinker/status/1084490338629242880)
+    
+    * Reverse-engineer what you read. If it feels like good writing, what makes it good? If it’s awful, why?
+    
+    * Prose is a window onto the world. Let your readers see what you are seeing by using visual, concrete language.
+    
+    * Don’t go meta. Minimize concepts about concepts, like “approach, assumption, concept, condition, context, framework, issue, level, model, perspective, process, range, role, strategy, tendency,” and “variable.”
+    
+    * Let verbs be verbs. “Appear,” not “make an appearance.”
+    
+    * Beware of the Curse of Knowledge: when you know something, it’s hard to imagine what it’s like not to know it. Minimize acronyms & technical terms. Use “for example” liberally. Show a draft around, & prepare to learn that what’s obvious to you may not be obvious to anyone else.
+    
+    * Omit needless words (Will Strunk was right about this).
+    
+    * Avoid clichés like the plague (thanks, William Safire).
+    
+    * Old information at the beginning of the sentence, new information at the end.
+    
+    * Save the heaviest for last: a complex phrase should go at the end of the sentence.
+    
+    * Prose must cohere: readers must know how each sentence is related to the preceding one. If it’s not obvious, use “that is, for example, in general, on the other hand, nevertheless, as a result, because, nonetheless,” or “despite.”
+    
+    * Revise several times with the single goal of improving the prose.
+    
+    * Read it aloud.
+    
+    * Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes, and a thesaurus.
 
 * [V.S. Naipaul's Rules for Beginners](http://www.indiauncut.com/iublog/article/vs-naipauls-advice-to-writers-rules-for-beginners/) via India Uncut.
 
