@@ -1,0 +1,70 @@
+/* Style sheet for Reveal.js Presentations
+Adapted from Vincent Bauer's work
+*/
+
+<style>
+
+/* R code */
+
+.reveal code {
+	background-color: #f5f5f5;	/* code bg color*/
+}
+
+.reveal p code {
+	background-color: #f5f5f5;	/* code bg color*/
+}
+
+.reveal pre code { /* code boxes */
+	word-wrap: normal; /* wrap code */
+	overflow: visible; /* wrap code */
+  	white-space: pre-line; /* wrap code */
+  	background-color: #FEFCFF;	/* code output bg color*/
+  	width: 950px; /* larger box*/
+  	font-size: 80%;
+}
+
+.reveal pre code.sourceCode { /* R input code */
+  	background-color: #f5f5f5;	/* code bg color*/
+  }
+
+.reveal pre  { /* code section */
+	margin-left: 0px; /* left align code section */
+	width: 950px; /* larger box*/
+	font-size: 80%;
+	background-color: #f5f5f5; /* I don't think this matters */
+}
+
+.reveal pre.text code {  /* code section when highlight=FALSE*/
+	white-space: pre-line; /* wrapping, although it overflows*/
+}
+
+/* Headings */
+
+.reveal h1 { /* Heading 1 */
+	font-weight: bold; /* bold */
+}
+
+.reveal h2.author { /* Heading 2 for an author */
+	font-style: normal; /* could make bold or italics */
+}
+
+/* Images */
+
+.reveal section img{ /* images */
+  border: 0px; /* no border but still shadow */
+}
+
+/* Slide content area */
+/* these need to be at the bottom, do NOT move them */
+
+.reveal .slides { /* all slide content */
+  text-align: left; /* left align */
+  font-size: 80%; /* smaller text */
+}
+
+.reveal .slides section>* { /* this is for left align */
+  margin-left: 0;
+  margin-right: 0;
+}
+  
+</style>

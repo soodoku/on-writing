@@ -1,0 +1,118 @@
+---
+title: "presenting well"
+author: gaurav sood
+date: March 5, 2020
+output:
+  revealjs::revealjs_presentation:
+    theme: simple
+    incremental: true
+    transition: slide
+    highlight: haddock
+    center: true
+    fig_width: 5
+    fig_height: 4
+    css: reveal.css
+    fig_caption: true
+---
+
+## What does it mean to present successfully?
+
+* Successfully avoid projectiles launched by the audience?
+
+* No one snores loudly?
+
+* People are engaged
+
+* People leave the room excited to learn more about the topic
+
+## Why is it hard?
+
+* People don't care about your topic
+
+* It is easy to lose people
+
+## Why should they pay attention? 
+
+* You only have the first few slides to change their mind
+
+* Strategies:
+  - Anecdote or data that speaks clearly to the problem
+  - Situate the problem in a larger structure
+  
+* What doesn't work
+  - This new measure is better than the old one
+  - I did this thing that led to that thing
+
+
+# Rules of Engagement
+
+## How not to lose your audience?
+
+* Come up with a narrative that flows
+
+* Make it easy to follow and focus
+
+* Make it fun
+
+* A good slide deck != good presentation.
+
+* Present well! Rehearse.
+
+## Organization
+
+* 90% of creating a presentation is organizing
+
+* Create some drama
+
+* Potential narrative structure:
+  - How many of you have been a victim of a boring presentation?
+  - Why is there such an epidemic of boring presentations?
+  - It is easy to make a boring presentation
+  - How not to make a boring presentation
+
+* Execution: 
+  - Storyboard
+  - Test: You will discover some chinks in the flow only when you rehearse
+
+## Make it easier to read and follow
+
+* When you present, some read
+
+* Limit text per slide
+
+* Limit text per bullet
+
+* Choose words carefully
+
+## Make it fun!
+
+* Write in a style that is direct and funny
+
+* Active > Passive
+
+* Figures > Tables
+
+* Avoid nominalization (via Pinker). 
+  - Comprehension checks were used as exclusion criteria.
+  - We excluded people who failed to understand the instructions.
+
+* Avoid zombie nouns
+  - discover (not discovery) etc. 
+
+## Make it easier to focus
+
+* Reveal the points sequentially
+* Also great for pacing
+* Dim the bullet points that you have gone over
+
+## Speed Limit
+
+* Content for the allocated time
+* Don't fit 60 min. in 10.
+
+## How?
+
+* Practice
+  - To debug
+  - To refine pacing
+  - Makes perfect
