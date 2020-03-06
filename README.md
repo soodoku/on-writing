@@ -100,3 +100,6 @@ A sure way to write better is to read good writers. Here are some people who I t
 * [Ludwig](https://ludwig.guru/)
   Finds similar sentences to ones you are trying to write from reputable websites to help you write better.
  
+### Presenting Well
+
+* [Presentation](https://htmlpreview.github.io/?https://github.com/soodoku/on-writing/blob/master/present/present.html#/)

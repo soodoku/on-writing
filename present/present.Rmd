@@ -110,9 +110,12 @@ output:
 * Content for the allocated time
 * Don't fit 60 min. in 10.
 
-## How?
+## Execution
+
+* Storyboard
 
 * Practice
   - To debug
   - To refine pacing
+  - To improve transitions
   - Makes perfect
