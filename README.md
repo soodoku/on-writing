@@ -103,3 +103,5 @@ A sure way to write better is to read good writers. Here are some people who I t
 ### Presenting Well
 
 * [Presentation](https://htmlpreview.github.io/?https://github.com/soodoku/on-writing/blob/master/present/present.html#/)
+
+* [Kieran Healy's Advice on Making Slides](https://kieranhealy.org/blog/archives/2018/03/24/making-slides/)
