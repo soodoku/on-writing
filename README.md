@@ -88,6 +88,8 @@ A sure way to write better is to read good writers. Here are some people who I t
 
 #### Tools
 
+* [Wordtune](https://www.wordtune.com/)  
+  
 * [Hemingway Editor](http://www.hemingwayapp.com)  
   Encourages you to use smaller words and shorter sentences.
 
@@ -97,7 +99,7 @@ A sure way to write better is to read good writers. Here are some people who I t
 * [Describing Words](http://describingwords.io)  
   Looking for adjectives? The tool mines books and lists all the adjectives that have been used with a particular noun.
 
-* [Ludwig](https://ludwig.guru/)
+* [Ludwig](https://ludwig.guru/)  
   Finds similar sentences to ones you are trying to write from reputable websites to help you write better.
  
 ### Presenting Well
