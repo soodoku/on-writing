@@ -1,14 +1,16 @@
 ## Writing Well
 
-Writing is not transcribing. It is creating new ideas and finding new ways of expressing old ideas. Thus, writing encompasses both, thinking about what to write, and how to write it.
+Writing is not transcribing. It is creating new ideas and finding new ways of expressing old ideas. Thus, writing encompasses both thinking about what to write and how to write it.
 
 It also holds then that if we don't write, we don't create. If we don't write, some connections will not be made, and some innovations in phrasing will remain unthought. The act of writing, much like the act of talking, causes us to create.
 
 Somewhat frighteningly, how we create remains beyond us. Take a second to think if you are conscious of where the words come from. You are in for an unsettling discovery.
 
-We may not know where the words come from, but we do know how to turn the tap on. Reading, thinking, and talking about something make writing about that thing generally easier. So, read deeply, think hard, and talk extensively about what you want to write about.
+We may not know where the words come from, but we do know how to turn the tap on. Reading, thinking, and talking about something generally make writing about that thing easier. So, read deeply, think hard, and talk extensively about what you want to write about.
 
-Even when you do all this, the first draft is liable to be rife with errors. For it seems, often enough, we can't quite fully appreciate the stupidity of an argument until we have put it down on paper. And even then, recognizing errors in arguments and style generally requires a 'fresh pair of eyes,' ours or someone else's. So, take time between revisions. And ask others for help.
+Even when you do all this, the first draft is liable to be rife with errors. For it seems, often enough, we can't fully appreciate the stupidity of an argument until we have put it down on paper. And even then, recognizing errors in arguments and style generally requires a 'fresh pair of eyes,' ours or someone else's. So, take time between revisions. And ask others for help.
+
+Lastly, a large chunk of a writer's output is never read. But it doesn't mean the work is wasted. Think of it as practice (like musicians) or do it because it is pleasant.
 
 ### Resources
 
@@ -46,7 +48,7 @@ Even when you do all this, the first draft is liable to be rife with errors. For
     
     * Read it aloud.
     
-    * Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes, and a thesaurus.
+    * Find the best word, which is not always the fanciest word. Consult a dictionary with usage notes and a thesaurus.
 
 * [V.S. Naipaul's Rules for Beginners](http://www.indiauncut.com/iublog/article/vs-naipauls-advice-to-writers-rules-for-beginners/) via India Uncut.
 
@@ -56,9 +58,9 @@ Even when you do all this, the first draft is liable to be rife with errors. For
  
     *  Do not use big words. If your computer tells you that your average word is more than five letters long, there is something wrong. The use of small words compels you to think about what you are writing. Even difficult ideas can be broken down into small words.
       
-    *  Never use words whose meaning you are not sure of. If you break this rule you should look for other work.
+    *  Never use words whose meaning you are not sure of. If you break this rule, you should look for other work.
       
-    *  The beginner should avoid using adjectives, except those of colour, size and number. Use as few adverbs as possible.
+    *  The beginner should avoid using adjectives, except those of color, size, and number. Use as few adverbs as possible.
       
     *  Avoid the abstract. Always go for the concrete.
     
@@ -75,23 +77,26 @@ A sure way to write better is to read good writers. Here are some people who I t
   - [Link to Amazon](https://smile.amazon.com/Sense-Style-Thinking-Persons-Writing/dp/0143127799/)
 
 * On Writing Well, 30th Anniversary Edition: An Informal Guide to Writing Nonfiction
-  - Review: A treat. Important, if basic, points conveyed clearly.
+  - Review: A treat. Important, if basic, points are conveyed clearly.
   - [Link to Amazon](https://smile.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/)
  
 * Stein On Writing: A Master Editor of Some of the Most Successful Writers of Our Century Shares His Craft Techniques and Strategies by Sol Stein  
-  - Review: Clear, frank, and extremely pragmatic advice for writers, including basics of plotting. 
+  - Review: Clear, frank, and extremely pragmatic advice for writers, including the basics of plotting. 
   - [Link to Amazon](https://smile.amazon.com/Stein-Writing-Successful-Techniques-Strategies/dp/0312254210/)
 
 * Bird by Bird: Some Instructions on Writing and Life by Anne Lamott  
-  - Review: Frank personal advice on how to write fiction. 
+  - Review: Frank, personal advice on how to write fiction. 
   - [Link to Amazon](https://smile.amazon.com/Bird-Some-Instructions-Writing-Life/dp/0385480016/)
+
+* Writing for Busy Readers by Todd Rogers and Jessica Lasky-Fink.
+  - Review: I loved the idea of using design thinking for writing.
 
 #### Tools
 
 * [Wordtune](https://www.wordtune.com/)  
   
 * [Hemingway Editor](http://www.hemingwayapp.com)  
-  Encourages you to use smaller words and shorter sentences.
+  It encourages you to use smaller words and shorter sentences.
 
 * [Grammarly](http://grammarly.com)  
    Get good advice on grammar. One portion of the software uses supervised algorithms that learn from editorial suggestions.
@@ -100,7 +105,7 @@ A sure way to write better is to read good writers. Here are some people who I t
   Looking for adjectives? The tool mines books and lists all the adjectives that have been used with a particular noun.
 
 * [Ludwig](https://ludwig.guru/)  
-  Finds similar sentences to ones you are trying to write from reputable websites to help you write better.
+  Find similar sentences to the ones you are trying to write from reputable websites to help you write better.
  
 ### Presenting Well
 
