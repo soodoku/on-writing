@@ -12,6 +12,18 @@ Even when you do all this, the first draft is liable to be rife with errors. For
 
 Lastly, a large chunk of a writer's output is never read. But it doesn't mean the work is wasted. Think of it as practice (like musicians) or do it because it is pleasant.
 
+### Agent skill
+
+The advice below is distilled into an agent skill, [`skills/on-writing`](skills/on-writing), that Claude Code and other harnesses can apply when writing or editing prose. It edits from the widest unit down: organization first (one point, stated first; paragraphs as units of thought), then clarity (small words, concrete nouns, active verbs), then a sweep for the [documented signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). A triage step keeps it from over-editing human drafts, and [`references/exemplars.md`](skills/on-writing/references/exemplars.md) holds passages by Luskin, Sniderman, Cochrane, Naipaul, and Remnick as calibration targets.
+
+Install by copying `skills/on-writing/SKILL.md` and `skills/on-writing/references/` into your harness's skills directory (for Claude Code: `~/.claude/skills/on-writing/`), or with the cross-agent skills CLI:
+
+```bash
+npx skills add soodoku/on-writing
+```
+
+The skill ships with an eval ([`skills/on-writing/eval`](skills/on-writing/eval)): seven fixed cases run with and without the skill, scored by mechanical checks (does the buried finding move to the first line, do AI tells disappear, does a human draft survive nearly untouched). `eval/RESULTS.md` records the latest comparison; `eval/` is development-only and need not be installed.
+
 ### Resources
 
 #### Succinct Advice on How to Write Better
