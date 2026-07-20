@@ -1,0 +1,5 @@
+Getting started is simple. No configuration file needed. The results are preserved automatically and can be exported at any time.
+
+- **Installation:** Installation is performed via the package manager.
+- **Authentication:** Authentication is handled through tokens, which are rotated automatically.
+- **Support:** Support can be reached through the help portal.
