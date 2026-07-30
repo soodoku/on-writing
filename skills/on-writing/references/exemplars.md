@@ -10,7 +10,19 @@ One light conditionality, and only one: **argument spends the reader's time, nar
 
 > It is time to look again at how Americans think about the issue of race.
 
-One plain sentence, and it is the whole agenda: subject, claim, stakes. No literature review, no "scholars have long debated." The book starts where a weaker book would arrive on page ten.
+*The move:* one plain sentence carrying the whole agenda: subject, claim, stakes. Thirteen words, none over two syllables. No literature review, no "scholars have long debated." The book starts where a weaker book would arrive on page ten.
+
+**The same book's thesis, in the register the authors use on themselves** (as summarized in review; the phrasing is the reviewer's, the register is theirs):
+
+> Lots of ordinary folks know it, but it's not the sort of thing social scientists tend to say: when it comes to questions of public policy, few whites are racists.
+
+*The move:* colloquial diction aimed at a technical audience, and a hard claim stated without insulation. The plainness is what makes the claim checkable. Its failure mode is real and reviewers named it: stark contrast can flatten a genuinely conditional finding. Take the flatness, keep the conditionality that is true.
+
+**Robert Luskin, title of his 1991 reply on standardized coefficients:**
+
+> Abusus Non Tollit Usum
+
+*The move:* the title is the argument. Abuse does not negate proper use - three words that state the paper's entire position before the abstract begins.
 
 **Robert Luskin, *Robert's Rules: Suggestions for Writing*:**
 
