@@ -1,0 +1,22 @@
+{
+  "name": "on-writing",
+  "owner": {
+    "name": "Gaurav Sood",
+    "url": "https://github.com/soodoku"
+  },
+  "metadata": {
+    "description": "Editing skill distilled from Luskin, Cochrane, Shafer, Pinker, Naipaul, and the QJPS style guidelines",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "on-writing",
+      "description": "Edits prose from the widest unit down: organization first, then clarity, then a sweep for the documented signs of AI writing. Triage keeps it from over-editing human drafts.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/on-writing"
+      ]
+    }
+  ]
+}

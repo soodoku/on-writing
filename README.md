@@ -16,11 +16,23 @@ Lastly, a large chunk of a writer's output is never read. But it doesn't mean th
 
 The advice below is distilled into an agent skill, [`skills/on-writing`](skills/on-writing), that Claude Code and other harnesses can apply when writing or editing prose. It edits from the widest unit down: organization first (one point, stated first; paragraphs as units of thought), then clarity (small words, concrete nouns, active verbs), then a sweep for the [documented signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). A triage step keeps it from over-editing human drafts. [`references/argument-craft.md`](skills/on-writing/references/argument-craft.md) carries the fuller distillation of Luskin, Cochrane, the QJPS guidelines, and Shafer, along with what Sniderman's prose does and where its style fails; [`references/exemplars.md`](skills/on-writing/references/exemplars.md) holds passages by Luskin, Sniderman, Cochrane, Naipaul, and Remnick as calibration targets.
 
-Install by copying `skills/on-writing/SKILL.md` and `skills/on-writing/references/` into your harness's skills directory (for Claude Code: `~/.claude/skills/on-writing/`), or with the cross-agent skills CLI:
+Install with the cross-agent skills CLI, which supports Claude Code, Cursor, Codex, Copilot, Gemini CLI, and around seventy other clients:
 
 ```bash
-npx skills add soodoku/on-writing
+npx skills add soodoku/on-writing --list   # see what's in it
+npx skills add soodoku/on-writing          # install
 ```
+
+Or, in Claude Code, as a plugin:
+
+```
+/plugin marketplace add soodoku/on-writing
+/plugin install on-writing@on-writing
+```
+
+Or by hand: copy `skills/on-writing/SKILL.md` and `skills/on-writing/references/` into your harness's skills directory (for Claude Code, `~/.claude/skills/on-writing/`).
+
+There is no registry to submit to and no approval step. The skills CLI treats GitHub itself as the registry, and [skills.sh](https://skills.sh) builds its directory from anonymous install telemetry, so a package appears there once people install it. Only installs made through the CLI count; a hand-copied directory is invisible to it.
 
 The skill ships with an eval ([`skills/on-writing/eval`](skills/on-writing/eval)): seven fixed cases run with and without the skill, scored by mechanical checks (does the buried finding move to the first line, do AI tells disappear, does a human draft survive nearly untouched). `eval/RESULTS.md` records the latest comparison; `eval/` is development-only and need not be installed.
 
