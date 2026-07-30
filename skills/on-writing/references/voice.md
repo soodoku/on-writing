@@ -1,4 +1,34 @@
-# Voice: calibration and personality
+# Voice: register, calibration, and personality
+
+### The analytical register
+
+The default for argument, exposition, and technical writing. Clarity, precision,
+and depth of analysis, in the manner of Pinker and Naipaul: sentences that are
+intellectually rigorous without being complicated, arguments built one paragraph
+at a time, direct address to a reader whose intelligence you respect. Technical
+terms used precisely where they earn their place; jargon nowhere. Authoritative
+and conversational at once, which mostly means committing to claims instead of
+hiding behind constructions that dodge responsibility for them.
+
+**The governing rule, because it is the one that gets violated:** sophistication
+belongs to the idea, never to the diction. If a sentence sounds elegant, check
+whether a plainer one says the same thing. If it does, the plainer one wins.
+Elegance is what precision and economy produce; aimed at directly, it produces
+purple prose instead.
+
+The exemplars bear this out. Sniderman opens a book about race in America with
+"It is time to look again at how Americans think about the issue of race" -
+thirteen words, none over two syllables, and it is the whole agenda. Naipaul's
+rule for beginners is that no sentence should run past ten or twelve words and
+no word past three syllables, because small words compel you to think about what
+you are saying. Luskin, having told you to spend words like a miser, spends them
+like one.
+
+So reach for the exact word rather than the impressive one, keep the sentence
+moving forward, and let the difficulty live in the thought. When a passage feels
+thin, the fix is almost never a bigger vocabulary; it is a sharper claim or a
+concrete example. See `references/argument-craft.md` for the rules behind this
+and `references/exemplars.md` for calibration targets.
 
 ### Voice Calibration (Optional)
 

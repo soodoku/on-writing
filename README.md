@@ -14,7 +14,7 @@ Lastly, a large chunk of a writer's output is never read. But it doesn't mean th
 
 ### Agent skill
 
-The advice below is distilled into an agent skill, [`skills/on-writing`](skills/on-writing), that Claude Code and other harnesses can apply when writing or editing prose. It edits from the widest unit down: organization first (one point, stated first; paragraphs as units of thought), then clarity (small words, concrete nouns, active verbs), then a sweep for the [documented signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). A triage step keeps it from over-editing human drafts, and [`references/exemplars.md`](skills/on-writing/references/exemplars.md) holds passages by Luskin, Sniderman, Cochrane, Naipaul, and Remnick as calibration targets.
+The advice below is distilled into an agent skill, [`skills/on-writing`](skills/on-writing), that Claude Code and other harnesses can apply when writing or editing prose. It edits from the widest unit down: organization first (one point, stated first; paragraphs as units of thought), then clarity (small words, concrete nouns, active verbs), then a sweep for the [documented signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing). A triage step keeps it from over-editing human drafts. [`references/argument-craft.md`](skills/on-writing/references/argument-craft.md) carries the fuller distillation of Luskin, Cochrane, the QJPS guidelines, and Shafer, along with what Sniderman's prose does and where its style fails; [`references/exemplars.md`](skills/on-writing/references/exemplars.md) holds passages by Luskin, Sniderman, Cochrane, Naipaul, and Remnick as calibration targets.
 
 Install by copying `skills/on-writing/SKILL.md` and `skills/on-writing/references/` into your harness's skills directory (for Claude Code: `~/.claude/skills/on-writing/`), or with the cross-agent skills CLI:
 
@@ -33,6 +33,8 @@ The skill ships with an eval ([`skills/on-writing/eval`](skills/on-writing/eval)
 * [QJPS Style Guidelines](lit/QJPS-Style-Guidelines.pdf)</a></li>
 
 * [John Cochrane's Writing Tips for Ph.D. Students](lit/phd_paper_writing.pdf)
+
+* [The Academic Whodunit, Or How to Write the Perfect Formula Paper](lit/shafer_1.MP.jpg) by D. Michael Shafer. A paper is a whodunit in which you give away the murderer in the first paragraph. The useful consequence: the opening defines what can and cannot appear in the rest, so anything not needed to unmask the murderer gets cut.
 
 * [Stephen Pinker's 13 Rules](https://twitter.com/sapinker/status/1084490338629242880)
     

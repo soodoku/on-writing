@@ -35,3 +35,46 @@ The baseline's characteristic failures are the ones the skill exists to fix: it 
 ```
 
 Caveats: single run per case per arm (behavior varies across runs; iteration 5 exists because of exactly that), checks are mechanical proxies, and `out/` is untracked.
+
+
+---
+
+# Eval results - 2026-07-29 (after the argument-craft revision)
+
+The revision added Luskin's remaining rules (O6-O8, S5, W6-W7), a numbers/tables/figures
+pass distilled from Cochrane and the *QJPS* guidelines, Shafer's opening-as-filter rule,
+and `references/argument-craft.md`. SKILL.md grew from 73 to ~100 lines.
+
+## What the re-run found
+
+Two regressions, both predicted by the shape of the change, and both traced rather than
+waved off as variance.
+
+**1. Pass 3 lost salience (`passive-docs`).** The first re-run emitted a bold-header list,
+the exact tell the pass bans. Three repeat runs: 1 fail, 2 pass. Adding ~25 lines of inline
+Mode A rules diluted a sweep that was already only a prose paragraph pointing at a reference
+file. **Fix:** an explicit output check in the process step, listing the hard bans (no
+em/en dashes, no bold-header lists, no sentence-initial "However,") to verify before
+delivering. Four runs after the fix: 4/4 clean.
+
+**2. Mode B got more aggressive (`luskin-passage`).** A human expert draft that previously
+took 2 edits took 6. More rules inline reads as more licence to edit. **Fix:** Pass 1 and
+Pass 2 are labelled Mode A passes, and Mode B now states that a rule below justifies an edit
+only if you can also name what the line does wrong for the reader. Four runs after the fix:
+3/4 pass, typical 3-4 edits and 12-14 changed words.
+
+**Honest accounting:** the mitigation is partial. Typical Mode B edits on this case went from
+2 to 3-4, and one run in four still exceeds the threshold. The revision buys Mode A capability
+at some cost in Mode B restraint. Worth watching if more inline rules are ever added.
+
+## An unresolved conflict the eval surfaced
+
+`medium-email` fails `no_dashes` because the author's own correctly-used em dash survives.
+That is now *deliberate*: the 3-4 band says author punctuation stays unless it was one of the
+counted tells, and a single correct dash is voice rather than a tell - only clusters count.
+Before the revision the skill was silent on this, and behaviour flipped run to run depending
+on whether a run happened to count the dash (verified: 3 runs, 2 kept it, 1 removed it).
+
+The skill is now self-consistent; the check is not. Either the case's `no_dashes` check should
+be dropped, or the rule should count single dashes in the middle band. That is a judgment call
+about what the case is for, so it is flagged rather than silently changed.
