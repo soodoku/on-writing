@@ -58,8 +58,8 @@ em/en dashes, no bold-header lists, no sentence-initial "However,") to verify be
 delivering. Four runs after the fix: 4/4 clean.
 
 **2. Mode B got more aggressive (`luskin-passage`).** A human expert draft that previously
-took 2 edits took 6. More rules inline reads as more licence to edit. **Fix:** Pass 1 and
-Pass 2 are labelled Mode A passes, and Mode B now states that a rule below justifies an edit
+took 2 edits took 6. More rules inline reads as more license to edit. **Fix:** Pass 1 and
+Pass 2 are labeled Mode A passes, and Mode B now states that a rule below justifies an edit
 only if you can also name what the line does wrong for the reader. Four runs after the fix:
 3/4 pass, typical 3-4 edits and 12-14 changed words.
 
@@ -72,7 +72,7 @@ at some cost in Mode B restraint. Worth watching if more inline rules are ever a
 `medium-email` fails `no_dashes` because the author's own correctly-used em dash survives.
 That is now *deliberate*: the 3-4 band says author punctuation stays unless it was one of the
 counted tells, and a single correct dash is voice rather than a tell - only clusters count.
-Before the revision the skill was silent on this, and behaviour flipped run to run depending
+Before the revision the skill was silent on this, and behavior flipped run to run depending
 on whether a run happened to count the dash (verified: 3 runs, 2 kept it, 1 removed it).
 
 The skill is now self-consistent; the check is not. Either the case's `no_dashes` check should

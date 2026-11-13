@@ -30,7 +30,7 @@ and what you conclude.
 
 The payoff is a cutting rule. The opening defines what may follow, so anything
 not needed to unmask the murderer gets killed, however much you like it. What
-impresses is not a catalogue of everything you read but a no-frills
+impresses is not a catalog of everything you read but a no-frills
 presentation of exactly what your case requires. This is why the opening
 paragraph is the hardest thing to write and deserves the most passes: it is
 doing double duty as argument and as filter.
@@ -79,7 +79,7 @@ The rules Passes 1 and 2 already carry are marked ✓. The rest are here.
   economically expressed, are no better than unnecessary words.
 - ✓ *Never say anything twice.* Hardly ever. If it was clear the first time, it
   was remembered.
-- *Try for colour, but not much.* Similes and metaphors are welcome and the
+- *Try for color, but not much.* Similes and metaphors are welcome and the
   unusual telling word is welcome. Most phrases still have to be literal and
   most words ordinary.
 - ✓ *Keep sentences forward-moving*; hive off qualifications. Then combine the
@@ -244,7 +244,7 @@ that a reader can see. The writing is clear partly because the design was
 chosen to be explicable.
 
 **And the failure mode, because a style guide that only praises teaches badly.**
-Reviewers of *The Scar of Race* criticised precisely this manner as "an
+Reviewers of *The Scar of Race* criticized precisely this manner as "an
 expository style that stresses stark contrasts and bold conclusions rather than
 the nuances and conditional factors" that the subject demands. The lesson stands
 with the caution attached: the clarity comes from committing to a claim, and
